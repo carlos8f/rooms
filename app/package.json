@@ -1,0 +1,17 @@
+{
+  "name": "rooms",
+  "version": "0.0.0",
+  "description": "Crypto-savvy peer to peer social network.",
+  "main": "index.html",
+  "window": {
+    "toolbar": false,
+    "width": 1200,
+    "height": 800
+  },
+  "webkit": {
+    "plugin": true
+  },
+  "dependencies": {
+    "deck":"latest"
+  }
+}

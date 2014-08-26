@@ -1,0 +1,22 @@
+{
+  "name": "rooms",
+  "version": "0.0.0",
+  "description": "Crypto-savvy peer to peer social network.",
+  "dependencies": {},
+  "scripts": {
+    "postinstall": "make install-app"
+  },
+  "devDependencies": {
+    "bower": "~1.3.1",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-node-webkit-builder": "~0.1.18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/carlos8f/rooms.git"
+  },
+  "homepage": "https://github.com/carlos8f/rooms",
+  "author": "Carlos Rodriguez <carlos@s8f.org>",
+  "license": "MIT"
+}

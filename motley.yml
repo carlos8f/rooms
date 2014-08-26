@@ -1,14 +1,4 @@
-id: H9fJbs18oYPB9H9w
-afterware: "afterware/*.js"
+id: rooms
 collections: "collections/*.js"
-controllers: "controllers/*.js"
-middleware: "middleware/*.js"
 plugins: "plugins/*.js"
-public: "public/**/*"
-views:
-  - "views/**/*.hbs"
-  - "views/**/*.handlebars"
-  - "views/**/*.md"
-  - "views/**/*.markdown"
-port: 3000
-title: new motley site
+minimal: true
